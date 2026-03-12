@@ -1,4 +1,4 @@
 # git_test
-this is a practice for version control workshop with DeAngelis lab folks
+This is a practice for the version control workshop with the DeAngelis lab folks
 Hello world
 I <3 soil
